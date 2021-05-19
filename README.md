@@ -1,7 +1,6 @@
 # Heather and Kayla Code Something Together
 
-## Important Title for our Read Me
-
+## Important Title for our README
 
 Demo'd by Kayla Wood and Heather Faerber
 
