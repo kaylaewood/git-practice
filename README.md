@@ -1,6 +1,6 @@
 # Heather and Kayla Code Something Together
 
-
+Practice code to trigger a merge conflict hopefully
 
 
 Demo'd by Kayla Wood and Heather Faerber
