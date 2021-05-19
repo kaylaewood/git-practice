@@ -1,7 +1,6 @@
 # Heather and Kayla Code Something Together
 
-
-
+Here is some text!!!!!!!!!!
 
 Demo'd by Kayla Wood and Heather Faerber
 
