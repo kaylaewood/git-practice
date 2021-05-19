@@ -4,6 +4,6 @@
 
 ##### THIS IS BAD PRACTICE I'M NOT USING A BRANCH MUHAHA
 
-Demo'd by Kayla Wood and Heather Faerber
+Demonstrated by Kayla Wood and Heather Faerber - two Mod 1 instructors
 
 A sample project to demonstrate Git workflow to Mod 1 students.
